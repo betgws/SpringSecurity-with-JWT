@@ -39,8 +39,8 @@ spring:
               - profile
 
           facebook:
-            client-id: ???
-            client-secret: ???
+            client-id: 833431678165325 # 꼭 한칸 띄어야됨
+            client-secret: c77ccc096ae7f1299babb23ce636bbfe
             scope:
               - email
               - public_profile
